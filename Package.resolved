@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftNeuralNetwork",
+        "repositoryURL": "https://github.com/JacopoMangiavacchi/SwiftNeuralNetwork.git",
+        "state": {
+          "branch": null,
+          "revision": "7c67218fdd4ebb0792a2649ebce16b9ddedaea44",
+          "version": "0.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
